@@ -1,0 +1,16 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+ol, ul {
+  padding-left: 30px;
+}
+
+.scavengerHuntContainer{
+  width: 1000px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
